@@ -1,2 +1,2 @@
-# Laavanya-Agarwal-C142---FlaskMockup2
-class work: https://github.com/whitehatjr/c-142
+C142: https://github.com/whitehatjr/c-142
+C143: https://snack.expo.dev/@laavanyaagarwal/c143---movie-recomendations
