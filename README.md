@@ -1,6 +1,6 @@
 # Movie Recommendations
 1. C142: https://github.com/whitehatjr/c-142
-2. C143: https://snack.expo.dev/@laavanyaagarwal/c143---movie-recomendations
+2. C143: https://snack.expo.dev/@laavanyaagarwal/c143---movie-recommendations
 3. C144: https://snack.expo.dev/@laavanyaagarwal/c144---movie-recommendations
 
 # Article Recommendations
